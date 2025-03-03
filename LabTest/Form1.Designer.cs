@@ -30,31 +30,53 @@
         {
             UserName = new Label();
             txtUserName = new TextBox();
+            matkhau = new Label();
+            txtmatkhau = new TextBox();
             SuspendLayout();
             // 
             // UserName
             // 
             UserName.AutoSize = true;
-            UserName.Location = new Point(108, 73);
+            UserName.Location = new Point(94, 55);
             UserName.Name = "UserName";
-            UserName.Size = new Size(78, 20);
+            UserName.Size = new Size(62, 15);
             UserName.TabIndex = 0;
             UserName.Text = "UserName";
             // 
             // txtUserName
             // 
-            txtUserName.Location = new Point(204, 74);
+            txtUserName.Location = new Point(178, 56);
+            txtUserName.Margin = new Padding(3, 2, 3, 2);
             txtUserName.Name = "txtUserName";
-            txtUserName.Size = new Size(125, 27);
+            txtUserName.Size = new Size(110, 23);
             txtUserName.TabIndex = 1;
+            // 
+            // matkhau
+            // 
+            matkhau.AutoSize = true;
+            matkhau.Location = new Point(80, 126);
+            matkhau.Name = "matkhau";
+            matkhau.Size = new Size(58, 15);
+            matkhau.TabIndex = 2;
+            matkhau.Text = "Mật Khẩu";
+            // 
+            // txtmatkhau
+            // 
+            txtmatkhau.Location = new Point(178, 126);
+            txtmatkhau.Name = "txtmatkhau";
+            txtmatkhau.Size = new Size(100, 23);
+            txtmatkhau.TabIndex = 3;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
+            Controls.Add(txtmatkhau);
+            Controls.Add(matkhau);
             Controls.Add(txtUserName);
             Controls.Add(UserName);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -65,5 +87,7 @@
 
         private Label UserName;
         private TextBox txtUserName;
+        private Label matkhau;
+        private TextBox txtmatkhau;
     }
 }
