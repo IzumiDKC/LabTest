@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dien\\Desktop\\LabTest\\",
+  "WorkspaceRootPath": "D:\\CSH\\New folder (2)\\LabTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|c:\\users\\dien\\desktop\\labtest\\labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|d:\\csh\\new folder (2)\\labtest\\labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|solutionrelative:labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,11 +18,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:2072371817:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:2072371817:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\Form1.cs",
+              "DocumentMoniker": "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\Form1.cs",
               "RelativeDocumentMoniker": "LabTest\\Form1.cs",
-              "ToolTip": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\Form1.cs [Design]",
+              "ToolTip": "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\Form1.cs [Design]",
               "RelativeToolTip": "LabTest\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T05:42:13.647Z",

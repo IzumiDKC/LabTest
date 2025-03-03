@@ -31,52 +31,62 @@
             UserName = new Label();
             txtUserName = new TextBox();
             matkhau = new Label();
-            txtmatkhau = new TextBox();
+            txtpassword = new TextBox();
+            btnlogin = new Button();
             SuspendLayout();
             // 
             // UserName
             // 
             UserName.AutoSize = true;
-            UserName.Location = new Point(94, 55);
+            UserName.Location = new Point(107, 73);
             UserName.Name = "UserName";
-            UserName.Size = new Size(62, 15);
+            UserName.Size = new Size(78, 20);
             UserName.TabIndex = 0;
             UserName.Text = "UserName";
             // 
             // txtUserName
             // 
-            txtUserName.Location = new Point(178, 56);
-            txtUserName.Margin = new Padding(3, 2, 3, 2);
+            txtUserName.Location = new Point(203, 75);
             txtUserName.Name = "txtUserName";
-            txtUserName.Size = new Size(110, 23);
+            txtUserName.Size = new Size(125, 27);
             txtUserName.TabIndex = 1;
             // 
             // matkhau
             // 
             matkhau.AutoSize = true;
-            matkhau.Location = new Point(80, 126);
+            matkhau.Location = new Point(107, 168);
             matkhau.Name = "matkhau";
-            matkhau.Size = new Size(58, 15);
+            matkhau.Size = new Size(70, 20);
             matkhau.TabIndex = 2;
-            matkhau.Text = "Mật Khẩu";
+            matkhau.Text = "Password";
             // 
-            // txtmatkhau
+            // txtpassword
             // 
-            txtmatkhau.Location = new Point(178, 126);
-            txtmatkhau.Name = "txtmatkhau";
-            txtmatkhau.Size = new Size(100, 23);
-            txtmatkhau.TabIndex = 3;
+            txtpassword.Location = new Point(203, 168);
+            txtpassword.Margin = new Padding(3, 4, 3, 4);
+            txtpassword.Name = "txtpassword";
+            txtpassword.Size = new Size(114, 27);
+            txtpassword.TabIndex = 3;
+            // 
+            // btnlogin
+            // 
+            btnlogin.Location = new Point(212, 245);
+            btnlogin.Name = "btnlogin";
+            btnlogin.Size = new Size(94, 29);
+            btnlogin.TabIndex = 4;
+            btnlogin.Text = "Login";
+            btnlogin.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
-            Controls.Add(txtmatkhau);
+            ClientSize = new Size(800, 451);
+            Controls.Add(btnlogin);
+            Controls.Add(txtpassword);
             Controls.Add(matkhau);
             Controls.Add(txtUserName);
             Controls.Add(UserName);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -88,6 +98,7 @@
         private Label UserName;
         private TextBox txtUserName;
         private Label matkhau;
-        private TextBox txtmatkhau;
+        private TextBox txtpassword;
+        private Button btnlogin;
     }
 }
