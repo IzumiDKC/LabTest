@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|c:\\users\\dien\\desktop\\labtest\\labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|solutionrelative:labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|c:\\users\\dien\\desktop\\labtest\\labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|solutionrelative:labtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|c:\\users\\dien\\desktop\\labtest\\labtest\\labtest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7710733-5628-4E04-A558-0ECAD51C7DDD}|LabTest\\LabTest.csproj|solutionrelative:labtest\\labtest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +43,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\Form1.cs",
+              "RelativeDocumentMoniker": "LabTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\Form1.cs",
+              "RelativeToolTip": "LabTest\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:04:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabTest",
+              "DocumentMoniker": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\LabTest.csproj",
+              "RelativeDocumentMoniker": "LabTest\\LabTest.csproj",
+              "ToolTip": "C:\\Users\\Dien\\Desktop\\LabTest\\LabTest\\LabTest.csproj",
+              "RelativeToolTip": "LabTest\\LabTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T06:03:07.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
