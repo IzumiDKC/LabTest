@@ -40,9 +40,10 @@
             UserName.AutoSize = true;
             UserName.Location = new Point(107, 73);
             UserName.Name = "UserName";
-            UserName.Size = new Size(78, 20);
+            UserName.Size = new Size(84, 15);
+
             UserName.TabIndex = 0;
-            UserName.Text = "UserName";
+            UserName.Text = "tên đăng nhập";
             // 
             // txtUserName
             // 
@@ -56,9 +57,10 @@
             matkhau.AutoSize = true;
             matkhau.Location = new Point(107, 168);
             matkhau.Name = "matkhau";
-            matkhau.Size = new Size(70, 20);
+            matkhau.Size = new Size(57, 15);
             matkhau.TabIndex = 2;
-            matkhau.Text = "Password";
+            matkhau.Text = "mật khẩu";
+
             // 
             // txtpassword
             // 
