@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\LabTest.csproj": {}
+    "D:\\CSH\\New folder (3)\\LabTest\\LabTest\\LabTest.csproj": {}
   },
   "projects": {
-    "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\LabTest.csproj": {
+    "D:\\CSH\\New folder (3)\\LabTest\\LabTest\\LabTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\LabTest.csproj",
+        "projectUniqueName": "D:\\CSH\\New folder (3)\\LabTest\\LabTest\\LabTest.csproj",
         "projectName": "LabTest",
-        "projectPath": "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\LabTest.csproj",
+        "projectPath": "D:\\CSH\\New folder (3)\\LabTest\\LabTest\\LabTest.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\CSH\\New folder (2)\\LabTest\\LabTest\\obj\\",
+        "outputPath": "D:\\CSH\\New folder (3)\\LabTest\\LabTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

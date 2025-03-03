@@ -40,8 +40,7 @@
             UserName.AutoSize = true;
             UserName.Location = new Point(107, 73);
             UserName.Name = "UserName";
-            UserName.Size = new Size(84, 15);
-
+            UserName.Size = new Size(105, 20);
             UserName.TabIndex = 0;
             UserName.Text = "tên đăng nhập";
             // 
@@ -57,10 +56,9 @@
             matkhau.AutoSize = true;
             matkhau.Location = new Point(107, 168);
             matkhau.Name = "matkhau";
-            matkhau.Size = new Size(57, 15);
+            matkhau.Size = new Size(70, 20);
             matkhau.TabIndex = 2;
             matkhau.Text = "mật khẩu";
-
             // 
             // txtpassword
             // 
@@ -76,7 +74,7 @@
             btnlogin.Name = "btnlogin";
             btnlogin.Size = new Size(94, 29);
             btnlogin.TabIndex = 4;
-            btnlogin.Text = "Login";
+            btnlogin.Text = "đăng nhập";
             btnlogin.UseVisualStyleBackColor = true;
             // 
             // Form1
